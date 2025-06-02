@@ -54,3 +54,9 @@ This project is provided for **educational and research purposes only**.
 - **Use at your own risk**: The author does not accept any responsibility or liability for potential consequences resulting from the use or misuse of this software in any real-world application.
 
 Always consult with a licensed healthcare professional for any medical concerns or decisions.
+
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
+
