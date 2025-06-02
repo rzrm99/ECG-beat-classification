@@ -31,3 +31,15 @@ This can be used to power real-time ECG monitoring systems that trigger alerts w
   Real-time heart rhythm classification
 
   Personal health analytics apps
+
+  ## 📁 Dataset
+
+This project uses the **MIT-BIH Arrhythmia-derived ECG Classification Dataset**, available publicly on Mendeley Data.
+
+- **Name**: ECG Classification Dataset
+- **Source**: [Mendeley Data - txhsxnsm6d](https://data.mendeley.com/datasets/txhsxnsm6d/1)
+- **Format**: CSV files (`mitbih_train.csv`, `mitbih_test.csv`)
+- **Description**: Preprocessed ECG heartbeat segments labeled by type (normal, ectopic, etc.), suitable for supervised learning.
+
+Make sure to download both the training and test sets before running the model.
+
