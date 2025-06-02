@@ -45,19 +45,12 @@ Make sure to download both the training and test sets before running the model.
 
 
 
+## ⚠️ Disclaimer
 
+This project is provided for **educational and research purposes only**.
 
+- **Not for clinical use**: The model has not been tested, verified, or approved for use in real-life medical or diagnostic situations.
+- **No medical guarantees**: It is not intended to diagnose, treat, or prevent any health conditions, and should not be used as a replacement for professional medical advice.
+- **Use at your own risk**: The author does not accept any responsibility or liability for potential consequences resulting from the use or misuse of this software in any real-world application.
 
-
-
-⚠️ Disclaimer
-
-This project is intended for educational and research purposes only.
-
-  The ECG classification model provided here has not been tested in clinical or real-world medical settings.
-
-  It is not approved for diagnostic or treatment purposes and should not be used as a substitute for professional medical advice.
-
-  The author is not liable for any outcomes resulting from misuse of the code or model in real-world healthcare scenarios.
-
-Always consult with a qualified healthcare provider for any medical concerns or decisions.
+Always consult with a licensed healthcare professional for any medical concerns or decisions.
