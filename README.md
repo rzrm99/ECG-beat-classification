@@ -43,3 +43,21 @@ This project uses the **MIT-BIH Arrhythmia-derived ECG Classification Dataset**,
 
 Make sure to download both the training and test sets before running the model.
 
+
+
+
+
+
+
+
+⚠️ Disclaimer
+
+This project is intended for educational and research purposes only.
+
+  The ECG classification model provided here has not been tested in clinical or real-world medical settings.
+
+  It is not approved for diagnostic or treatment purposes and should not be used as a substitute for professional medical advice.
+
+  The author is not liable for any outcomes resulting from misuse of the code or model in real-world healthcare scenarios.
+
+Always consult with a qualified healthcare provider for any medical concerns or decisions.
