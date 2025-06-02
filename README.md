@@ -1,6 +1,4 @@
 # ECG-beat-classification
-
-
 🧠 What This ECG Model Does
 
 This project implements a deep learning model that performs ECG beat classification using 1D Convolutional Neural Networks (CNNs). It is trained on the MIT-BIH Arrhythmia Database.
@@ -17,25 +15,19 @@ Label	Description
 
 By predicting the beat class, the model can detect:
 
-Irregular heart rhythms (arrhythmias)
+  Irregular heart rhythms (arrhythmias)
 
-Ectopic beats (abnormal origin beats)
+  Ectopic beats (abnormal origin beats)
 
-Potential signs of cardiac distress or failure
+  Potential signs of cardiac distress or failure
 
 This can be used to power real-time ECG monitoring systems that trigger alerts when abnormal heart activity is detected.
 💡 Use Cases
 
-Wearable health monitors
+  Wearable health monitors
 
-Hospital ECG alert systems
+  Hospital ECG alert systems
 
-Real-time heart rhythm classification
+  Real-time heart rhythm classification
 
-Personal health analytics apps
-
-💾 Dataset
-
-The model is trained on publicly available ECG data:
-
-🔗 Dataset Download: Mendeley Data – ECG Classification Dataset
+  Personal health analytics apps
